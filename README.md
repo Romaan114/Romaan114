@@ -1,4 +1,5 @@
- ![I'm a image](https://media1.giphy.com/media/h408T6Y5GfmXBKW62l/200w.gif?cid=82a1493bp86o32r1nwkj2oa9t1fn5u55dupwxsn7ekwdpl8v&rid=200w.gif&ct=g)
+ <p align="center">
+ <img src="https://media1.giphy.com/media/h408T6Y5GfmXBKW62l/200w.gif?cid=82a1493bp86o32r1nwkj2oa9t1fn5u55dupwxsn7ekwdpl8v&rid=200w.gif&ct=g" /></p>
   
   
   # *Hi👋, I’m @Romaan114*
