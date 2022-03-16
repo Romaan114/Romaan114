@@ -42,6 +42,14 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Romaan114&show_icons=true" alt="Romaan114" />
  
  
+ <p align="cnter"><img src="https://github-profile-trophy.vercel.app/?username=Romaan114&theme=algolia&row=2" alt="Romaan114" /></a> </p>
+<hr>
+ 
+ <img src="https://intense-river-40395.herokuapp.com/graph?username=Akshat-Pandey16&theme=react-dark&custom_title=~%20~%20~%20Romaan114's%20Contribution%20Graph%20~%20~%20~&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
+ 
+ ![GitHub metrics](https://metrics.lecoq.io/Romaan114)  
+ 
+ 
  
  
  
