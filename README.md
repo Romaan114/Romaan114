@@ -34,7 +34,18 @@
 <a href="https://www.youtube.com/c/UCSTkkfzq0tDX4Vqol2LLaCw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt=" UCSTkkfzq0tDX4Vqol2LLaCw" height="30" width="40" /></a>
 <a href="https://twitter.com/qureshi_romaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt=" qureshi_romaan " height="30" width="40" /></a>
 
- [![Romaan's github stats](https://github-readme-stats.vercel.app/api?username=Romaan114)](https://github.com/Romaan114/github-readme-stats)
+ 
+ ## 📈 My Stats:
+ <p align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romaan114&layout=compact&hide=html" alt="Romaan114" />
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Romaan114&show_icons=true" alt="Romaan114" />
+ 
+ 
+ 
+ 
+ 
+
  
  
  
