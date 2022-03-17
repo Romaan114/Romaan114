@@ -1,5 +1,5 @@
  <p align="center">
- <img src="https://media1.giphy.com/media/h408T6Y5GfmXBKW62l/200w.gif?cid=82a1493bp86o32r1nwkj2oa9t1fn5u55dupwxsn7ekwdpl8v&rid=200w.gif&ct=g" /></p>
+ <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" /></p>
   
   
   # *Hi👋, I’m @Romaan114*
@@ -8,7 +8,7 @@
 - 🤝 I’m looking to collaborate on```C/C++```,```Python```,```Java☕```,```Android Studio``` ...
 - 👣 Reach me At  romaanqureshi768@gmail.com ...
 
-<a><img align="right" width="350" height="263" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"></a>
+
 
 
 
@@ -37,21 +37,15 @@
 
  
  ## 📈 My Stats:
- <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romaan114&layout=compact&hide=html" alt="Romaan114" />&nbsp;&nbsp;&nbsp;
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Romaan114&show_icons=true" alt="Romaan114" />
  
  
- <p align="cnter"><img src="https://github-profile-trophy.vercel.app/?username=Romaan114&theme=algolia&row=2" alt="Romaan114" /></a> </p>
-<hr>
+ 
  
  <img src="https://intense-river-40395.herokuapp.com/graph?username=Akshat-Pandey16&theme=react-dark&custom_title=~%20~%20~%20Romaan114's%20Contribution%20Graph%20~%20~%20~&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
  
- ![GitHub metrics](https://metrics.lecoq.io/Romaan114)  
- 
- 
- 
+  
  
  
 
