@@ -38,7 +38,7 @@
  
  ## 📈 My Stats:
  <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romaan114&layout=compact&hide=html" alt="Romaan114" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romaan114&layout=compact&hide=html" alt="Romaan114" />&nbsp;&nbsp;&nbsp;
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Romaan114&show_icons=true" alt="Romaan114" />
  
