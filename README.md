@@ -43,7 +43,6 @@
  
  
  
- <img src="https://intense-river-40395.herokuapp.com/graph?username=Akshat-Pandey16&theme=react-dark&custom_title=~%20~%20~%20Romaan114's%20Contribution%20Graph%20~%20~%20~&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
  
   
  
