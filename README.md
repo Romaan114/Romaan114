@@ -4,8 +4,8 @@
   
   # *Hi👋, I’m @Romaan114*
 - 👀 I’m interested in ```Coding```,```Programming``` and```Logic building``` ...
-- 🌱 I’m currently learning ```Python```,```Java``` ...
-- 🤝 I’m looking to collaborate on```C/C++```,```Python```,```Java☕```,```Android Studio``` ...
+- 🌱 I’m currently learning ```AI```,```ML``` ...
+- 🤝 I’m looking to collaborate on```C/C++```,```Python```,```HTML```,```CSS```,```javascript``` ...
 - 👣 Reach me At  romaanqureshi768@gmail.com ...
 
 
@@ -23,7 +23,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;&nbsp;  
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp; 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+ 
  
  
  
